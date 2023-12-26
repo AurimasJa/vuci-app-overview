@@ -13,3 +13,9 @@ config card
 It will be determined how cards will be displayed based on position.
 ## Vuci overview
 Show all available network, system, and log information. Cards must be draggable, and positions must be changed. There is a drawer in which we can hide cards.
+
+## Overview folder
+This folder contains all logic that will be displayed in System/Overview menu.
+
+## Interfaces folder
+Modified exsisting code to add and remove UCI configuration on network add/remove
