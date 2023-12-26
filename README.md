@@ -8,6 +8,7 @@ config card
   option position 0
   option isVisible true
   option title 'title'
+  option id 0
 ```
 It will be determined how cards will be displayed based on position.
 ## Vuci overview
