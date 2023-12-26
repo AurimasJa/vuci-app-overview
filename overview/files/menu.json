@@ -1,0 +1,7 @@
+{
+	"system/overviewas": {
+		"title": "Overviewas",
+		"view": "vuci-app-overviewas",
+		"index": 80
+	}
+}

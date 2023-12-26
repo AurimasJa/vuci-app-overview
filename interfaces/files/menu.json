@@ -1,0 +1,8 @@
+{
+    "network/interfacesas": {
+        "title": "Interfacesas",
+        "view": "vuci-app-interfacesas",
+        "files": ["/etc/config/network"],
+        "index": 10
+    }
+}
