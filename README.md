@@ -19,3 +19,11 @@ This folder contains all logic that will be displayed in System/Overview menu.
 
 ## Interfaces folder
 Modified exsisting code to add and remove UCI configuration on network add/remove
+
+
+## Photos
+System information displayed in cards:
+![MicrosoftTeams-image](https://github.com/AurimasJa/vuci-app-overview/assets/79587555/cce5f553-b550-4eff-a9b4-bf846a883645)
+
+Drawer that can hide or display cards:
+![MicrosoftTeams-image (2)](https://github.com/AurimasJa/vuci-app-overview/assets/79587555/56c2a070-94ec-4ed5-a3e4-28b376924d83)
